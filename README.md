@@ -39,7 +39,7 @@ Nous sommes une équipe de 19 collaborateurs divisée en 2 pôles spécialisés 
 
 1. Bonne nouvelle pour toi, maintenant que tu connais GitHub tu peux forker ce _repository_.
 2. Compléter à ta guise le fichier **POSTULATE.md** _(n'hésitez pas à nous envoyez un CV)_.
-3. Envoyer une PR (Pull Request pour _intime_).
+3. Envoyer une Pull Request (PR pour les _intimes_).
 
 ### Choix 2
 
